@@ -1,0 +1,16 @@
+{
+    "name": "tdd_nodejs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "repository": "https://github.com/irumvanselme/tdd-in-nodejs.git",
+    "author": "irumva anselme <andesanselme@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^11.0.0",
+        "express": "^4.17.2"
+    }
+}
